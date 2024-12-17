@@ -1,4 +1,7 @@
 /* Write your CSS here */
+*{
+  font-family: Roboto;
+}
 .bg-container {
     background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
     height: 100vh;
@@ -11,7 +14,6 @@
   
   .heading {
     color: #0b69ff;
-    font-family: roboto;
   }
   .box-container {
     padding: 60px;
@@ -28,7 +30,6 @@
     color: #ffffff;
     cursor: pointer;
     outline: none;
-    font-family: roboto;
   }
   
   .random-number {

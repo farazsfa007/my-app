@@ -24,7 +24,6 @@ class RandomNumberGenerator extends Component {
             Generate
           </button>
           <h1 className="random-number">{randomNumber}</h1>
-          <p>Why need to generate</p>
         </div>
       </div>
     )
